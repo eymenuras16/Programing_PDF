@@ -1,0 +1,98 @@
+C ve C++ Programlama PDF(Türkçe):https://yadi.sk/i/QbsO-afp38qNre
+
+.Net Programlama(İngilizce):https://books.goalkicker.com/DotNETFrameworkBook/
+
+Algoritmalar(İngilizce):https://books.goalkicker.com/AlgorithmsBook/
+
+Profesyoneller için Android Programlama(İngilizce):https://books.goalkicker.com/AndroidBook/
+
+Angular 2+(İngilizce):https://books.goalkicker.com/Angular2Book/
+
+AngularJS(İngilizce):https://books.goalkicker.com/AngularJSBook/
+
+Bash(İngilizce):https://books.goalkicker.com/BashBook/
+
+C Programlama(İngilizce):https://books.goalkicker.com/CBook/
+
+C++ Programlama(İngilizce):https://books.goalkicker.com/CPlusPlusBook/
+
+C# Programlama(İngilizce):https://books.goalkicker.com/CSharpBook/
+
+CSS Programlama(İngilizce):https://books.goalkicker.com/CSSBook/
+
+Entity Framework(İngilizce):https://books.goalkicker.com/EntityFrameworkBook/
+
+Excel VBA(İngilizce):https://books.goalkicker.com/EntityFrameworkBook/
+
+Git Platformları(İngilizce):https://books.goalkicker.com/GitBook/
+
+Haskell(İngilizce):https://books.goalkicker.com/HaskellBook/
+
+HiberNate(İngilizce):https://books.goalkicker.com/HibernateBook/
+
+HTML5 Programlama(İngilizce):https://books.goalkicker.com/HTML5Book/
+
+HTML5 Canvas Programlama(İngilizce):https://books.goalkicker.com/HTML5CanvasBook/
+
+Tam Kapsamlı İOS Geliştirme(İngilizce):https://books.goalkicker.com/iOSBook/
+
+Java Programlama(İngilizce):https://books.goalkicker.com/JavaBook/
+
+Java Script Programlama(İngilizce):https://books.goalkicker.com/JavaScriptBook/
+
+jQuery(İngilizce):https://books.goalkicker.com/jQueryBook/
+
+Kotlin Programlama(İngilizce):https://books.goalkicker.com/KotlinBook/
+
+LaTeX(İngilizce):https://books.goalkicker.com/LaTeXBook/
+
+Linux Programlama(İngilizce):https://books.goalkicker.com/LinuxBook/
+
+Matlab(İngilizce):https://books.goalkicker.com/MATLABBook/
+
+MC SQL(İngilizce):https://books.goalkicker.com/MicrosoftSQLServerBook/
+
+MongoDB(İngilizce):https://books.goalkicker.com/MongoDBBook/
+
+MySQL(İngilizce):https://books.goalkicker.com/MySQLBook/
+
+NodeJS Programlama(İngilizce):https://books.goalkicker.com/NodeJSBook/
+
+Objective-C Programlama(İngilizce):https://books.goalkicker.com/ObjectiveCBook/
+
+Oracle Database(İngilizce):https://books.goalkicker.com/OracleDatabaseBook/
+
+Perl Programlama(İngilizce):https://books.goalkicker.com/PerlBook/
+
+PHP Programlama(İngilizce):https://books.goalkicker.com/PHPBook/
+
+Postgre SQL(İngilizce):https://books.goalkicker.com/PostgreSQLBook/
+
+Power Shell(İngilizce):https://books.goalkicker.com/PowerShellBook/
+
+Python Programlama(İngilizce):https://books.goalkicker.com/PythonBook/
+
+R Programlama(İngilizce):https://books.goalkicker.com/RBook/
+
+ReactJS Programlama(İngilizce):https://books.goalkicker.com/ReactJSBook/
+
+React Native Programlama(İngilizce):https://books.goalkicker.com/ReactNativeBook/
+
+Ruby Programlama(İngilizce):https://books.goalkicker.com/RubyBook/
+
+Ruby on Rails(İngilizce):https://books.goalkicker.com/RubyOnRailsBook/
+
+Spring Framework(İngilizce):https://books.goalkicker.com/SpringFrameworkBook/
+
+SQL(İngilizce):https://books.goalkicker.com/SQLBook/
+
+Swift Programlama(İngilizce):https://books.goalkicker.com/SwiftBook/
+
+Type Script Programlama(İngilizce):https://books.goalkicker.com/TypeScriptBook2/
+
+VBA (İngilizce):https://books.goalkicker.com/VBABook/
+
+Visual Basic Programlama(İngilizce):https://books.goalkicker.com/VisualBasic_NETBook/
+
+Xamarin Forms(İngilizce):https://books.goalkicker.com/XamarinFormsBook/
+
